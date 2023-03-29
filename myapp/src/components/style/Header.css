@@ -1,0 +1,40 @@
+.header-container{
+    height: 100px;
+    width: 100%vw;
+    border-bottom: 2px solid green;
+   
+}
+
+.logo-img,.caemra-img{
+    height: 50%;
+    width: 50px;
+    margin-top: 5%;
+
+
+}
+.insta-text{
+   font: normal normal normal 64px/85px Palatino;;
+    position: relative;
+    top: 5px;;
+    left: -450px;
+    color: #006238;
+}
+
+.logo-img{
+    float: left;
+    position: relative;
+    top:-55px;
+    right:-116px;
+    
+}
+
+.caemra-img{
+    float: right;
+    position: relative;
+    top:-55px;
+    left: -301px;;
+    
+
+
+}
+

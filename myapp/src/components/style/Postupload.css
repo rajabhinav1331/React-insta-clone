@@ -1,0 +1,31 @@
+.form-container{
+position: relative;
+top: 50px;
+width: 500px;
+border: 2px solid green;
+margin: auto;
+border-radius: 5px;
+   
+}
+
+.file,.author,.location,.description{
+    
+    padding: 10px;
+
+}
+
+#file-name,#description-name{
+    border: 2px solid green;
+    width: 90%;
+    border-radius: 5px;
+    height: 25px;
+    
+}
+
+#author-name,#location-name{
+    border: 2px solid green;
+    width: 40%;
+    border-radius: 5px;
+
+}
+
